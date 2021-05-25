@@ -13,7 +13,7 @@ class Strings {
  static final String projectName= "Project Name";
  static final String projectDescription= "Project Description";
  static final String personelProjects= "My Personal Projects";
- static final String copyRightText= "Developed\n Ali Raza Abro\n © 2021";
+ static final String copyRightText= "Copyright\n Ali Raza Abro\n © 2021";
 
 
 
