@@ -38,7 +38,7 @@ class _HomeViewState extends State<HomeView> {
     Resume(),
     Contact(),
   ];
-
+jjbknkl
   @override
   void initState() {
     // TODO: implement initState
